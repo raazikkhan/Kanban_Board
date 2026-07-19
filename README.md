@@ -7,7 +7,7 @@ The application focuses on providing a polished project management experience wi
 ## 🔗 Links
 
 - **Live Demo:** [kanban-project.vercel.app](https://kanban-board-ruddy-ten.vercel.app/)
-- **GitHub Repository:** [github.com/your-username/kanban-project]([https://github.com/your-username/kanban-project](https://github.com/raazikkhan/Kanban_Board.git))
+- **GitHub Repository:** [github.com/your-username/kanban-project]((https://github.com/raazikkhan/Kanban_Board.git))
 
 ---
 
