@@ -1,4 +1,4 @@
-# Kanban Project
+# Kanban Board
 
 A modern, elegant, and simple Kanban-style project management application built with Next.js.
 
